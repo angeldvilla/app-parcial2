@@ -41,7 +41,8 @@ const styles = StyleSheet.create({
       borderWidth: 1,
       borderColor:'white',
       padding: 10,
-      color:'black',
+      text:'grey',
+      color: 'black',
       fontWeight:'bold',
       backgroundColor:'white',
       borderRadius: 100
